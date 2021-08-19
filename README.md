@@ -1,40 +1,34 @@
 # workoutLog
+Final Workout Log Server Screenshots
+![Create Log Entry pgadmin](screenshots/Create%20log%20entry%20pgadmin.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Create%20log%20entry%20pgadmin.png
 
-Screen Shot 2021-08-19 at 5.54.28 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%205.54.28%20AM.png
+![Create Log Entry postman](screenshots/Create%20log%20entry%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Create%20log%20entry%20postman.png
 
-Screen Shot 2021-08-19 at 5.56.34 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%205.56.34%20AM.png
+![Create second log entry postman](screenshots/Create%20second%20log%20entry%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Create%20second%20log%20entry%20postman.png
 
-Screen Shot 2021-08-19 at 5.59.01 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%205.59.01%20AM.png
+![Delete entry postman](screenshots/Delete%20entry%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Delete%20entry%20postman.png
 
-Screen Shot 2021-08-19 at 5.59.42 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%205.59.42%20AM.png
+![Deleted entry pgadmin](screenshots/Deleted%20entry%20pgadmin.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Deleted%20entry%20pgadmin.png
 
-Screen Shot 2021-08-19 at 6.01.40 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.01.40%20AM.png
+![Login success pgadmin](screenshots/Login%20success%20pgadmin.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Login%20success%20pgadmin.png
 
-Screen Shot 2021-08-19 at 6.01.57 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.01.57%20AM.png
+![Login success postman](screenshots/Login%20success%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Login%20success%20postman.png
 
-Screen Shot 2021-08-19 at 6.03.41 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.03.41%20AM.png
+![Log entry pgadmin](screenshots/Update%20log%20entry%20pgadmin.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Update%20log%20entry%20pgadmin.png
 
-Screen Shot 2021-08-19 at 6.08.18 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.08.18%20AM.png
+![Update loge entry](screenshots/Update%20log%20entry%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/Update%20log%20entry%20postman.png
 
-Screen Shot 2021-08-19 at 6.08.41 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.08.41%20AM.png
+![View all logs](screenshots/View%20all%20logs%20by%20user.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/View%20all%20logs%20by%20user.png
 
-Screen Shot 2021-08-19 at 6.09.46 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.09.46%20AM.png
-
-Screen Shot 2021-08-19 at 6.11.13 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.11.13%20AM.png
-
-Screen Shot 2021-08-19 at 6.11.29 AM.png
-https://github.com/krysmarsh/workoutLog/blob/screenshots/Screen%20Shot%202021-08-19%20at%206.11.29%20AM.png
-
-
-
+![View specific log entry posta](screenshots/View%20specific%20log%20entry%20postman.png)
+https://github.com/krysmarsh/workoutlogfinal/blob/screenshots/View%20specific%20log%20entry%20postman.png
